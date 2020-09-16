@@ -1,3 +1,3 @@
 # SoR
 
-suported, maintained by Cai
+maintained by Cai
